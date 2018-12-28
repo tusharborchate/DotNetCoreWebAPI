@@ -1,0 +1,14 @@
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.deps.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.runtimeconfig.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.runtimeconfig.dev.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.pdb
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorAssemblyInfo.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorAssemblyInfo.cs
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.AssemblyInfo.cs
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.pdb
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.csprojAssemblyReference.cache

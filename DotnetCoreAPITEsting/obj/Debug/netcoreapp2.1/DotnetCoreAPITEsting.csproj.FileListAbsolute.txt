@@ -1,0 +1,17 @@
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotnetCoreAPITEsting.deps.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotnetCoreAPITEsting.runtimeconfig.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotnetCoreAPITEsting.runtimeconfig.dev.json
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotnetCoreAPITEsting.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotnetCoreAPITEsting.pdb
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.pdb
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.csprojAssemblyReference.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.AssemblyInfoInputs.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.AssemblyInfo.cs
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.csproj.CopyComplete
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.dll
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\obj\Debug\netcoreapp2.1\DotnetCoreAPITEsting.pdb

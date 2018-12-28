@@ -1,0 +1,5 @@
+2018-12-17T17:49:34.5643614-06:00  [ERR] Xunit.Sdk.EqualException: Assert.Equal() Failure
+Expected: 3
+Actual:   1
+   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in C:\Dev\xunit\xunit\src\xunit.assert\Asserts\EqualityAsserts.cs:line 40
+   at DotnetCoreAPITEsting.UnitTest1.GetCustomerTestMethod() in C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\DotNetCoreWebAPI\DotnetCoreAPITEsting\UnitTest1.cs:line 37 (ded64a4e)
