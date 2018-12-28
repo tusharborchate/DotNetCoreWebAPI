@@ -39,6 +39,7 @@ namespace DotNetCoreWebAPI
             services.AddDbContext<DBContextClass>(options => options.UseSqlServer(Configuration.GetConnectionString("CustomerDB")));
             //            services.Configure<GzipCompressionProviderOptions>(options => options.Level = System.IO.Compression.CompressionLevel.Fastest);
 
+            //adding gzip compression
             services.AddResponseCompression(options =>
                         {
                             options.Providers.Add<GzipCompressionProvider>();
